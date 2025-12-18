@@ -1,0 +1,8 @@
+a=5+3*2
+print(a)
+b=2*3**2
+print(b)
+c=2**3**2
+print(c)
+d=(2**3)**2
+print(d)
